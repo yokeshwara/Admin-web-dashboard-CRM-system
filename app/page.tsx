@@ -634,7 +634,7 @@ export default function Dashboard() {
               </Button>
               <Button className="w-full justify-start h-12 bg-white/10 hover:bg-white/20 backdrop-blur-sm border border-white/20 text-white font-semibold rounded-xl">
                 <Briefcase className="w-4 h-4 mr-3" />
-                Create AMC <br/> <br/> Contract
+                Create AMC Contract
               </Button>
               <Button className="w-full justify-start h-12 bg-white/10 hover:bg-white/20 backdrop-blur-sm border border-white/20 text-white font-semibold rounded-xl">
                 <BarChart3 className="w-4 h-4 mr-3" />
